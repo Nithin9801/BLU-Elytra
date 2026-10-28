@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,050
+A loop lets Python repeat an action, one item at a time. Let's look at a simple example together.
+
+2
+00:00:07,650 --> 00:00:15,149
+Here, range of three gives us the numbers zero, one, and two. The loop takes one number at a time.
+
+3
+00:00:15,750 --> 00:00:22,332
+On each pass, i takes the next value. Then Python runs the indented print instruction.
+
+4
+00:00:22,950 --> 00:00:30,285
+The result is zero, one, two. When there are no more values, the loop stops. That's a loop!

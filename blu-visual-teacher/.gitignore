@@ -1,0 +1,12 @@
+# Downloadable/build dependencies
+frontend/node_modules/
+frontend/dist/
+backend/.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# Generated lessons and exports
+backend/data/
+backend/models/*.onnx
+backend/models/*.bin
+.DS_Store
